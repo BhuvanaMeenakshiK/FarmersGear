@@ -19,8 +19,8 @@ Hi everyone! Welcome and am so excited that you have landed to my page to know m
 * NGOs
 * Farmers
 
-**Contributing**
-Roadmap: <Link to be added>
-COntributing guidelines : <Link to be added>
+**Contributing**<br/>
+Roadmap: <Link to be added><br/>
+Contributing guidelines : <Link to be added>
 
 
